@@ -1,0 +1,35 @@
+html, body {
+	background-color: #fff;
+	font-size: 18px;
+	font-family: Futura, sans-serif;
+	line-height: 2;
+	margin: 0;
+}
+main {
+	background-color: #fff;
+	font-size: 1.5em;
+	padding: 0.5em;
+}
+h1 {
+	font-size: 1.5em;
+	margin: 0;
+}
+button {
+	background: #ccc;
+	border: none;
+	padding: 0.5em 1em;
+	-webkit-appearance: none;
+}
+button:before {
+	content: 'X';
+	display: block;
+}
+div {
+	background-color: #efefef;
+	padding: 1em;
+}
+pre code {
+	display: block;
+	font-family: Menlo, monospace;
+	font-weight: bold;
+}

@@ -1,0 +1,13 @@
+{
+  "name": "axe-chrome-extension-demo",
+  "version": "0.0.1",
+  "description": "A quick Chrome extension demonstration of background and content scripts for accessibility testing",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcy Sutton",
+  "license": "ISC",
+  "dependencies": {
+    "axe-core": "^2.0.5"
+  }
+}

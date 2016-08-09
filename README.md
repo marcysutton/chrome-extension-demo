@@ -1,6 +1,6 @@
 # aXe Chrome Extension Demo
 
-This simple demo was created for my talk at Cascadia Fest, Where in the Stack is Carmen Sanfrancisco? It demonstrates using background and content scripts together to test the DOM from an extension context. 
+This simple demo was created for my talk at Cascadia Fest, Where in the Stack is Carmen Sanfrancisco? It demonstrates using background and content scripts together to test the DOM from an extension context. [Slides](http://marcysutton.com/slides/carmen-sanfrancisco-cascadia/) (warnings: large filesize, crappy accessibility thanks to Keynote export)
 
 It is intentionally kept small to focus on the concepts behind extension contexts and message passing between them. For a real-world implementation, check out [axe-firefox-devtools](https://github.com/dequelabs/axe-firefox-devtools) or the [aXe Chrome Extension](chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US).
 
